@@ -12,4 +12,14 @@
 @import "components/index";
 @import "pages/index";
 
+a {
+  text-decoration: none;
+}
+
+.btn {
+  padding: 10px;
+  width: 20%;
+  border-radius: 5px;
+  color: white;
+}
 
